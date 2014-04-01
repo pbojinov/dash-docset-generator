@@ -1,21 +1,21 @@
 {
-    "name": "dash-marionettejs-docset-generator",
-    "version": "0.0.2",
+    "name": "dash-docset-generator",
+    "version": "0.0.1",
     "author": {
-        "name": "Timo Behrmann"
+        "name": "Petar Bojinov"
     },
     "keywords": [
         "dash",
         "docset",
         "generator",
-        "marionettejs"
+        "generic"
     ],
     "repository": {
         "type": "git",
-        "url": "git://github.com/z0mt3c/dash-marionettejs-docset-generator.git"
+        "url": "git@github.com:pbojinov/dash-docset-generator.git"
     },
     "bugs": {
-        "url": "https://github.com/z0mt3c/dash-marionettejs-docset-generator/issues"
+        "url": "https://github.com/pbojinov/dash-docset-generator"
     },
     "scripts": {
         "start": "node generate.js"
